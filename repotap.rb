@@ -4,8 +4,8 @@
 class Repotap < Formula
   desc "test_formula"
   homepage "https://github.com/Bsivakumar29/repotap"
-  url "https://github.com/Bsivakumar29/repotap/archive/refs/tags/v1.1.5.tar.gz"
-  sha256 "8386c4d331de944b80f219deada5c25b5f2ab2f90c282d433f8bd7f22392d0fd"
+  url "https://github.com/Bsivakumar29/repotap/archive/refs/tags/v1.1.6.tar.gz"
+  sha256 "0ead268edd5364f998cfef336a5dcb022b395fbef4e349d9d7ad12b4d7aef9c6"
   license ""
 
   def install
