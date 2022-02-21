@@ -10,5 +10,6 @@ class Repotap < Formula
 
   def install
 	bin.install "repotap"
+	prefix.install Dir["lib"]
   end
 end
